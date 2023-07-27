@@ -17,7 +17,7 @@
 
 ## Screenshots
 
-<img width="280px" src="https://github.com/sai123gopal/productsApp/blob/master/Screenshoots/Screenshot_20230727_164840.jpg" alt="Screenshot 1" ><img src="https://github.com/sai123gopal/productsApp/blob/master/Screenshoots/Screenshot_20230727_171640.jpg" alt="Screenshot 2" width="280px" >
+<img width="280px" src="https://github.com/sai123gopal/productsApp/blob/master/Screenshoots/Screenshot_20230727_164840.jpg" alt="Screenshot 1" ><img src="https://github.com/sai123gopal/productsApp/blob/master/Screenshoots/Screenshot_20230727_174735.jpg" alt="Screenshot 2" width="280px" >
 
 <img src="https://github.com/sai123gopal/productsApp/blob/master/Screenshoots/Screenshot_20230727_171647.jpg" alt="Screenshot 3" width="280"><img src="https://github.com/sai123gopal/productsApp/blob/master/Screenshoots/Screenshot_20230727_171652.jpg" alt="Screenshot 4" width="280">
 
