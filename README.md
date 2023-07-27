@@ -1,6 +1,10 @@
 # ProductsApp
 
 
+
+## Download APK : 
+https://github.com/sai123gopal/productsApp/releases/download/1.0/app-debug.apk
+
 ## Installation
 
 1. Clone the repository using Git:
