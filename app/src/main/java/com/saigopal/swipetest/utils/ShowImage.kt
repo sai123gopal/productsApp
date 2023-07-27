@@ -7,10 +7,7 @@ import android.graphics.Bitmap
 import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
 import android.view.LayoutInflater
-import android.view.View
 import android.view.Window
-import android.widget.ImageButton
-import android.widget.ImageView
 import androidx.databinding.DataBindingUtil
 import com.bogdwellers.pinchtozoom.ImageMatrixTouchHandler
 import com.saigopal.swipetest.R
