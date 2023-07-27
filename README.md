@@ -5,7 +5,7 @@
 
 1. Clone the repository using Git:
 
-```git clone [https://github.com/your-username/your-repository.git](https://github.com/sai123gopal/productsApp/)```
+```git clone https://github.com/sai123gopal/productsApp/```
 
 3. Open Android Studio.
 
