@@ -1,5 +1,5 @@
 # ProductsApp
-
+This repository houses a simple yet powerful Kotlin-based application that employs Data Binding, MVVM architecture, and Retrofit for product management. Easily upload, edit, and view product listings, complete with key information such as name, image, price, tax, and type. Share your contributions and collaborate on this versatile project for efficient product management.
 
 
 ## Download APK : 
